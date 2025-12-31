@@ -1,0 +1,6 @@
+click==8.2.1
+joblib==1.5.1
+nltk==3.9.1
+pyperclip==1.9.0
+regex==2025.7.34
+tqdm==4.67.1
