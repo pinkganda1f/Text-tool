@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Text Tool Pro
+Exec=/home/g/bin/TextToolPro
+Icon=text-editor
+Terminal=false
+Categories=Utility;Development;
